@@ -11,4 +11,4 @@ I am a web developer from Russia, Saint-Petersburg. Second-year student of SPb S
 * PHP (in past).
 
 ## CV site
-[velu.ga](velu.ga)
+[velu.ga](https://velu.ga/)

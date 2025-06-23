@@ -6,12 +6,14 @@ I am a web developer from Russia, Saint-Petersburg.
 * TypeScript/JavaScript;
 * React;
 * NodeJS;
+* eslint/stylelint rules;
+* postcss plugins;
 * HTML/CSS3 (flexbox, small grid);
 * Git;
-* PHP (in past).
+* Just a little bit Go.
 
 ## CV site
-[velu.ga](https://velu.ga/)
+[veluga.dev](https://veluga.dev/)
 
 ## Stats
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav805&theme=dark)
